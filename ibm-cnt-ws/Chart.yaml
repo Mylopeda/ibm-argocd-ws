@@ -1,0 +1,4 @@
+apiVersion: v2
+version: 0.1.0
+name: ibm-cnt-ws
+description: Chart to configure ArgoCD with the ibm-cnt-ws project and its applications
